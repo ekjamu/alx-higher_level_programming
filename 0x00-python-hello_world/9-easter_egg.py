@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-file1 = open("myfile.txt","r")
+file1 = open("zenp.txt","r")
 print(file1.read())
