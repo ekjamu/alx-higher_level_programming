@@ -8,8 +8,5 @@ def element_at(my_list,idx):
 
     for item in range(my_list)):
         if n == idx:
-            print(item)
-
+            print("Element at index {:d} is {}".format(idx,item))
         n = n + 1
-
-
